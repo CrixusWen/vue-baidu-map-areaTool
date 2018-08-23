@@ -12,6 +12,3 @@ new Vue({
   components: { App},
    template: '<App/>'
 })
-// Vue.use(BaiduMap,{
-//   ak:'Xcovi4pOhaBLZruCIgPA9c0WO5pfWzmK'
-// })
